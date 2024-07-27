@@ -1,8 +1,8 @@
 ### Hi there 👋🏾
-Currently working on: 
-- [Godot Mio Playlist](https://www.youtube.com/watch?v=2oSDYQ93Kd8&list=PLFozZChveaHuPd5RyBevQnCW_E0hdBDNz)
-- [hydrogen-halo❄️](https://github.com/users/emanisgrand/projects/4/views/2_)
-- [project-titling document](https://docs.google.com/spreadsheets/d/1CCaxVaMfs2V68K5-s_-m3CpuKnGq8R_u0rsFDmex6LM/edit#gid=0)
+- Currently working on: 
+    - Unreal Engine Telemetry code for 2K games.
+    - [A Karaoke Queue for my side-hustle as a Karaoke DJ](https://github.com/emanisgrand/YARPS)
+    - [A series of videos explaining DSA](https://www.youtube.com/watch?v=tqy9N-dAjN0)
 
 <!--
 **emanisgrand/emanisgrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
