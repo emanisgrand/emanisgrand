@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 - Currently working on: 
-    - Unreal Engine Telemetry code for 2K games.
+    - Unreal Engine Telemetry testing for 2K games.
     - [A Karaoke Queue for my side-hustle as a Karaoke DJ](https://github.com/emanisgrand/YARPS)
     - [A series of videos explaining DSA](https://www.youtube.com/watch?v=tqy9N-dAjN0)
 
